@@ -5,7 +5,7 @@
 
 <h2> Desafio: Conceitos do React Native </h2>
 
-<img alt="Mobile" src="../src/assets/imgMobile.jpg" />
+<img alt="Mobile" src="https://github.com/Nata07/gostack-desafio-conceitos-react-native/blob/master/src/assets/imgMobile.jpg" />
 
 <p>Essa aplicação tem como objetivo entender os conceitos básicos do React Native, fazendo integração com a API REST em <a href="https://github.com/Nata07/gostack-desafio-conceito-nodejs"> Node.js </a>, para listagem de repositórios.</p>
 
